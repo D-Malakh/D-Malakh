@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @D-Malakh
-- 👀 I’m interested in learning software engineering
-- 🌱 I’m currently learning software engineering 
+- 👋 Hi, I’m D_Seth
+- 👀 I’m interested in learning Data Analytics
+- 🌱 I’m currently learning Data Analytics
 - 💞️ I’m looking to collaborate on reaching specific goals
 - 📫 How to reach me on +2348132959158/ dstix4u@gmail.com
 
